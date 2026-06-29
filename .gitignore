@@ -1,0 +1,17 @@
+# Archivo de configuración con credenciales — NUNCA subir
+config.properties
+
+# Archivos compilados de Java
+*.class
+out/
+bin/
+target/
+
+# Carpetas de configuración de editores/IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
